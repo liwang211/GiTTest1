@@ -3,7 +3,7 @@ package gitTest;
 public class GitTest {
 	
 	public static void main(String[] args) {
-		System.out.println("ÀîÍúÕâ¸ö²Ë¼¦");
+		System.out.println("1111");
 	}
 
 }
